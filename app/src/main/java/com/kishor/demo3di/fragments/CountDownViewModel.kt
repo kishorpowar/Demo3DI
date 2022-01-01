@@ -27,7 +27,6 @@ class CountDownViewModel : ViewModel() {
                  } else {
                  startTimer()
                  }
-
        }
 
 
